@@ -1,0 +1,4 @@
+<BPM session=\"session;aaa111\" username=\"toro\" password=\"password\" command=\"e01\" type=\"request\">
+<Service-Name value=\"OCF\" />
+                <E01-Provision command=\"add\" objecttype=\"OperatorId\" keys= \"0110111000000100000110101010,02,def,NULL,NULL\" data=\"1|45400|CSL Limited|\"/>
+</BPM>

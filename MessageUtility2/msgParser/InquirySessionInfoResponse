@@ -1,0 +1,16 @@
+		<AVP type=\"sessionType\">
+			<vals value=\"1\" />
+		</AVP>
+		<AVP type=\"resultInfo\">
+			<vals value=\"66879726669\" />
+		</AVP>
+		<AVP type=\"methodVersion\">
+			<vals value=\"1\" />
+		</AVP>
+		<AVP type=\"sessionInfo\">
+			<vals value=\"OCF01,wap,b20.SUK2N0.ais.com;1348307710;2781583214,WOCF,aaaa,bbbb\" />
+			<vals value=\"OCF02,wap,b20.SUK2N0.ais.com;1348307710;2781583214,WOCF,aaaa,bbbb\" />
+			<vals value=\"OCF03,wap,b20.SUK2N0.ais.com;1348307710;2781583214,WOCF,aaaa,bbbb\" />
+			<vals value=\"OCF04,wap,b20.SUK2N0.ais.com;1348307710;2781583214,WOCF,aaaa,bbbb\" />
+			<vals value=\"OCF05,wap,b20.SUK2N0.ais.com;1348307710;2781583214,WOCF,aaaa,bbbb\" />
+		</AVP>
